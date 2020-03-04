@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>晚霞下的树</title>
+  <title>树&amp;月</title>
   <icon>https://www.gravatar.com/avatar/cdf73e2ba17ec8806d1994eccc3968cc</icon>
-  <subtitle>一棵开花的树</subtitle>
+  <subtitle>树&amp;月</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lihucai.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://lihucai.github.io/</id>
   
   <author>
-    <name>Shu</name>
+    <name>ShuCai &amp; Ulla</name>
     <email>sxscli@foxmail.com</email>
   </author>
   
