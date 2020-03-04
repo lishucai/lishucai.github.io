@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>树</title>
+  <title>晚霞下的树</title>
   <icon>https://www.gravatar.com/avatar/cdf73e2ba17ec8806d1994eccc3968cc</icon>
   <subtitle>一棵开花的树</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -36,6 +36,34 @@
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="https://lihucai.github.io/2020/about/"/>
+    <id>https://lihucai.github.io/2020/about/</id>
+    <published>2020-03-03T12:30:00.000Z</published>
+    <updated>2020-03-04T12:30:37.864Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;电力工人，热爱生活，喜欢折腾。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;现居：杭州&lt;br&gt;GitHub: &lt;a href=&quot;https://github.com/lishucai&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="随笔" scheme="https://lihucai.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
